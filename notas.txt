@@ -1,0 +1,4 @@
+IDEAS para proyectos
+#1. Toma de asistencia automatizada, utilizando bluetooth y Wi-Fi.
+#2. Pastillero inteligente.
+#3. Ropero ingeligente
